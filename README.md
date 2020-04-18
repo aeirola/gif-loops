@@ -1,4 +1,4 @@
-# Collevtion of looping GIFs
+# Collection of looping GIFs
 
 [![cookieloop](cookieloop_still.gif)](cookieloop.gif)
 
